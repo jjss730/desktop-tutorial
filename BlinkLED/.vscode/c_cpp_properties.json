@@ -1,0 +1,59 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "k:/Drive F - Back Up/Documents/Home/Home Projects/Arduino/BlinkLED/BlinkLED/include",
+                "k:/Drive F - Back Up/Documents/Home/Home Projects/Arduino/BlinkLED/BlinkLED/src",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/jasso/.platformio/lib/DS3231_ID1379",
+                "C:/Users/jasso/.platformio/lib/I2Cdevlib-Core_ID11",
+                "C:/Users/jasso/.platformio/lib/RadioHead_ID124",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/jasso/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "k:/Drive F - Back Up/Documents/Home/Home Projects/Arduino/BlinkLED/BlinkLED/include",
+                    "k:/Drive F - Back Up/Documents/Home/Home Projects/Arduino/BlinkLED/BlinkLED/src",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/jasso/.platformio/lib/DS3231_ID1379",
+                    "C:/Users/jasso/.platformio/lib/I2Cdevlib-Core_ID11",
+                    "C:/Users/jasso/.platformio/lib/RadioHead_ID124",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/jasso/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/jasso/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40100",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/jasso/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega328p"
+        }
+    ],
+    "version": 4
+}
